@@ -1,5 +1,5 @@
 MyUSER="root"     # USERNAME
-MyPASS='HelmPlesk'       # PASSWORD
+MyPASS='passowrd'       # PASSWORD
 MyHOST="localhost"          # Hostname
 
 # Backup Dest directory, change this if you have someother location
